@@ -8,7 +8,7 @@ Developed by: Ali Akber
 1. [Setup Instructions](#1-setup-instructions)
 2. [Design_System](#2-design-system)
 3. [Architecture Overview](#3-architecture-overview)
-5. [Final Notes](#5-final-notes)
+4. [Final Notes](#4-final-notes)
 
 ## 0. Overview
 
@@ -16,7 +16,7 @@ A Flutter application to view current Weather & Forecasts.
 
 ### Video Showcase
 
-todo: add video link
+https://github.com/user-attachments/assets/c24692d5-cccb-4df2-977c-ff5d32ecfb32
 
 ## 1. Setup Instructions
 
@@ -29,7 +29,7 @@ This project was developed using the following Flutter version:
 - Open the project in you favourite IDE
 - Add an `env.dart` file under the lib folder
 - Add you API key in the `env.dart` file
-- Run the app using flutter run command
+- Run the app using the `flutter run` command
 
 ## 2. Design System
 
