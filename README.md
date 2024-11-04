@@ -16,7 +16,11 @@ A Flutter application to view current Weather & Forecasts.
 
 ### Video Showcase
 
-https://github.com/user-attachments/assets/c24692d5-cccb-4df2-977c-ff5d32ecfb32
+
+
+https://github.com/user-attachments/assets/fc7728f0-b063-4c08-aa2b-1a926b506bfc
+
+
 
 ## 1. Setup Instructions
 
